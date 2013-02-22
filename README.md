@@ -1,6 +1,6 @@
 # jPlurk
 
-Java Plurk API that use Plurk API 1.0.
+Java Plurk API that use [PLURK API 1.0](http://www.plurk.com/API/1.0/).
 
 This project was branched from [jPlurk - Plurk Official API Binding in Java](http://code.google.com/p/jplurk/) (Google Code) rev 520.
 
