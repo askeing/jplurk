@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/518/trunk/com.google.jplurk/src/main/java/com/google/jplurk
+END
+Gender.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/167/trunk/com.google.jplurk/src/main/java/com/google/jplurk/Gender.java
+END
+ISettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/470/trunk/com.google.jplurk/src/main/java/com/google/jplurk/ISettings.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/503/trunk/com.google.jplurk/src/main/java/com/google/jplurk/JsonUtils.java
+END
+Args.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/488/trunk/com.google.jplurk/src/main/java/com/google/jplurk/Args.java
+END
+DateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/470/trunk/com.google.jplurk/src/main/java/com/google/jplurk/DateTime.java
+END
+PlurkClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/504/trunk/com.google.jplurk/src/main/java/com/google/jplurk/PlurkClient.java
+END
+PlurkNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/497/trunk/com.google.jplurk/src/main/java/com/google/jplurk/PlurkNotifier.java
+END
+PrivacyPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/305/trunk/com.google.jplurk/src/main/java/com/google/jplurk/PrivacyPolicy.java
+END
+CommentBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/405/trunk/com.google.jplurk/src/main/java/com/google/jplurk/CommentBy.java
+END
+PlurkSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/470/trunk/com.google.jplurk/src/main/java/com/google/jplurk/PlurkSettings.java
+END
+HttpExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/484/trunk/com.google.jplurk/src/main/java/com/google/jplurk/HttpExecutor.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/475/trunk/com.google.jplurk/src/main/java/com/google/jplurk/Utils.java
+END
+Qualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/186/trunk/com.google.jplurk/src/main/java/com/google/jplurk/Qualifier.java
+END
+Lang.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/189/trunk/com.google.jplurk/src/main/java/com/google/jplurk/Lang.java
+END

@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 489
+/branches/20100619_close_wait/com.google.jplurk/src/main/java/com/google/jplurk/org/apache:456-460*
+/branches/feature_excpetion_in_stead_of_null/com.google.jplurk/src/main/java/com/google/jplurk/org/apache:498-502
+/branches/refactoring_20100802/com.google.jplurk/src/main/java/com/google/jplurk/org/apache:465-469
+/branches/refactoring_20100806/com.google.jplurk/src/main/java/com/google/jplurk/org/apache:476-483
+/trunk/com.google.jplurk/src/main/java/com/google/jplurk/org/apache:155-448
+END

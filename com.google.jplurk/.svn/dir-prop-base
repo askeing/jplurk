@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 7
+target
+
+K 13
+svn:mergeinfo
+V 240
+/branches/20100619_close_wait/com.google.jplurk:456-460
+/branches/feature_excpetion_in_stead_of_null/com.google.jplurk:498-502
+/branches/refactoring_20100802/com.google.jplurk:465-469
+/branches/refactoring_20100806/com.google.jplurk:476-483
+END

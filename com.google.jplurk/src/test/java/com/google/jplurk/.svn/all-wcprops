@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/506/trunk/com.google.jplurk/src/test/java/com/google/jplurk
+END
+PlurkClientTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/488/trunk/com.google.jplurk/src/test/java/com/google/jplurk/PlurkClientTestCase.java
+END
+AbstractJPlurkSessionTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/506/trunk/com.google.jplurk/src/test/java/com/google/jplurk/AbstractJPlurkSessionTestCase.java
+END
+PlurkBlocksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/503/trunk/com.google.jplurk/src/test/java/com/google/jplurk/PlurkBlocksTest.java
+END
+DateTimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/427/trunk/com.google.jplurk/src/test/java/com/google/jplurk/DateTimeTest.java
+END
+PlurkUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/428/trunk/com.google.jplurk/src/test/java/com/google/jplurk/PlurkUtilsTest.java
+END
+UtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/471/trunk/com.google.jplurk/src/test/java/com/google/jplurk/UtilsTest.java
+END
+LangTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/com.google.jplurk/src/test/java/com/google/jplurk/LangTest.java
+END
+PlurkClientRequiredParamsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/503/trunk/com.google.jplurk/src/test/java/com/google/jplurk/PlurkClientRequiredParamsTest.java
+END

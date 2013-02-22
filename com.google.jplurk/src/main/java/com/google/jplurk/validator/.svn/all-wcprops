@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/449/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator
+END
+PositiveIntegerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/449/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/PositiveIntegerValidator.java
+END
+QualifierValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/186/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/QualifierValidator.java
+END
+Validation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/334/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/Validation.java
+END
+TimeOffsetValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/192/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/TimeOffsetValidator.java
+END
+NicknameValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/437/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/NicknameValidator.java
+END
+TrueFalseLiteralValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/449/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/TrueFalseLiteralValidator.java
+END
+EmailValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/401/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/EmailValidator.java
+END
+IDListValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/186/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/IDListValidator.java
+END
+IValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/366/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/IValidator.java
+END
+NonNegativeIntegerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/449/trunk/com.google.jplurk/src/main/java/com/google/jplurk/validator/NonNegativeIntegerValidator.java
+END

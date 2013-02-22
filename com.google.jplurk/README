@@ -1,0 +1,9 @@
+web site:
+http://code.google.com/p/jplurk/
+    r503 fix the ISSUE 16 It will return null, if any excpetions raising
+    r485 fix the ISSUE 26
+    r474 fix the ISSUE 25
+    r473 fix the ISSUE 24
+    r461 fix the ISSUE 20
+    r454 make http-client thread-safe
+    

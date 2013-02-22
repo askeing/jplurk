@@ -1,0 +1,8 @@
+bin/*
+build/*
+fonts/*
+target/*
+.gradle/*
+products.txt
+sales.txt
+*.pdf

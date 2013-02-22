@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/437/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator
+END
+PositiveIntegerValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/262/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator/PositiveIntegerValidatorTest.java
+END
+QualifierValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/186/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator/QualifierValidatorTest.java
+END
+TimeOffsetValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/192/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator/TimeOffsetValidatorTest.java
+END
+NicknameValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/437/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator/NicknameValidatorTest.java
+END
+TrueFalseLiteralValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/335/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator/TrueFalseLiteralValidatorTest.java
+END
+EmailValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/187/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator/EmailValidatorTest.java
+END
+IDListValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/187/trunk/com.google.jplurk/src/test/java/com/google/jplurk/validator/IDListValidatorTest.java
+END
