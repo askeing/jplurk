@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/520/trunk/com.google.jplurk.ext
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/410/trunk/com.google.jplurk.ext/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/410/trunk/com.google.jplurk.ext/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/520/trunk/com.google.jplurk.ext/pom.xml
+END
